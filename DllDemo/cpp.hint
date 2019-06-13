@@ -1,0 +1,2 @@
+#define DLLDEMO_API __declspec(dllexport)
+#define DLLDEMO_API __declspec(dllimport)
